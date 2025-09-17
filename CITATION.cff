@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Matrix Freedman ψα simulations"
+version: "1.0.0"
+authors:
+  - family-names: "Torres"
+    given-names: "Íñigo"
+date-released: "2025-09-17"
+repository-code: "https://github.com/TorresInigo/matrix-freedman-psi-alpha-sims"
